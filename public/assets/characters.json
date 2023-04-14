@@ -1,0 +1,61 @@
+[{
+    "name": "Link",
+    "img": "./assets/img/link.webp"
+}, {
+    "name": "Kirby",
+    "img": "./assets/img/kirby.webp"
+}, {
+    "name": "Apocalypse",
+    "img": "./assets/img/apocalypse.webp"
+}, {
+    "name": "Lara Croft",
+    "img": "./assets/img/lara-croft.webp"
+}, {
+    "name": "Wario",
+    "img": "./assets/img/wario.webp"
+}, {
+    "name": "Megaman",
+    "img": "./assets/img/megaman.webp"
+}, {
+    "name": "Cloud",
+    "img": "./assets/img/cloud.webp"
+}, {
+    "name": "Akuma",
+    "img": "./assets/img/akuma.webp"
+}, {
+    "name": "Knuckles",
+    "img": "./assets/img/knuckles.webp"
+}, {
+    "name": "Kitana",
+    "img": "./assets/img/kitana.webp"
+}, {
+    "name": "Zelda",
+    "img": "./assets/img/zelda.webp"
+}, {
+    "name": "Mrs Pacman",
+    "img": "./assets/img/mrs-pacman.webp"
+}, {
+    "name": "Guile",
+    "img": "./assets/img/guile.webp"
+}, {
+    "name": "Crash Bandicoot",
+    "img": "./assets/img/crash-bandicoot.webp"
+}, {
+    "name": "Eddie",
+    "img": "./assets/img/eddie.webp"
+}, {
+    "name": "Slenderman",
+    "img": "./assets/img/slenderman.webp"
+}, {
+    "name": "Red",
+    "img": "./assets/img/red.webp"
+}, {
+    "name": "Kratos",
+    "img": "./assets/img/kratos.webp"
+}, {
+    "name": "Ellie",
+    "img": "./assets/img/ellie.webp"
+}, {
+    "name": "CJ",
+    "img": "./assets/img/cj.webp"
+}]
